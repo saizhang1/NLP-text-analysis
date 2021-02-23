@@ -76,9 +76,13 @@ For several features users are able to reveal their satisfaction (1-5 point scal
 feedback. How: in-product feature-rating window, feedback initiated by user. Data in the table
 provided only for Grids feature.
 
+![nps1](https://user-images.githubusercontent.com/36822899/108905021-7ab9e900-761f-11eb-8ab6-0b8c51009da6.JPG)
+
 ### Support tickets:
 Miro users and site visitors are able to write support requests. How: in-product / on web-site
 menu item, request initiated by user / visitor.
+
+![nps2](https://user-images.githubusercontent.com/36822899/108905097-9624f400-761f-11eb-8e38-0da8f37c6ef9.JPG)
 
 ### User’s roles:
 We collect the data regarding user’s functional roles. When we can’t identify it, we categorise it
