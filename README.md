@@ -32,6 +32,7 @@ launch was on May 18th).
 ### Functionality:
 ● The widget that can be easily set up as the grid of dimensions that users choose (like
 2x5, 4x10, etc) with controls that help to add / delete rows and columns in one click.
+
 ● To manage a grid we suggest a possibility to change the place of an element with all
 content inside (column\row\cell) and also change cells' dimensions.
 
@@ -47,8 +48,11 @@ Do the most frequent actions in one click: add columns and rows, merge cells, co
 and rows and add any object to the table.
 Problem - solution (Miro vs Google Spreadsheets)
 ● Reduce tools switching → One tool for many tasks
+
 ● Put important information in one place → Single source of truth
+
 ● Use the most important features with simple UI → Short adoption curve, easy to start
+
 Based on usage data (feature activation/adoption/retention) we observe that grids fit target
 use-case but overall performance is not as high as it was expected. Based on our initial feature
 strategy and usage traction product team considers to elaborate Grids - Version 2.
@@ -64,6 +68,7 @@ make suggestions of what should we focus on / take into account while developing
 ### NPS:
 From time to time we ask users about their willingness to recommend Miro (1-10 point scale)
 with an option to leave text feedback. How: in-product pop-up window, request initiated by Miro.
+
 ![nps](https://user-images.githubusercontent.com/36822899/108904736-2b73b880-761f-11eb-92a2-1dae5be67cfe.JPG)
 
 ### Feature feedback:
