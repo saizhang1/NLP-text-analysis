@@ -34,8 +34,10 @@ launch was on May 18th).
 2x5, 4x10, etc) with controls that help to add / delete rows and columns in one click.
 ● To manage a grid we suggest a possibility to change the place of an element with all
 content inside (column\row\cell) and also change cells' dimensions.
+
 ● In case of templates, Grids are able to make a one-click copy of a row/column to speed
 up the process.
+
 ● User is able to put all kinds of content inside a cell: text, shape, set of shapes, image, etc
 
 ### Value proposition:
@@ -62,6 +64,7 @@ make suggestions of what should we focus on / take into account while developing
 ### NPS:
 From time to time we ask users about their willingness to recommend Miro (1-10 point scale)
 with an option to leave text feedback. How: in-product pop-up window, request initiated by Miro.
+![nps](https://user-images.githubusercontent.com/36822899/108904736-2b73b880-761f-11eb-92a2-1dae5be67cfe.JPG)
 
 ### Feature feedback:
 For several features users are able to reveal their satisfaction (1-5 point scale) and leave text
