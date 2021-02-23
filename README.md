@@ -57,3 +57,26 @@ Whereas the product team is working on V2 of Grids, user’s feedback is conside
 valuable source to formulate requirements for the next version of this feature. As a user's
 insights analytics manager you need to identify core user’s issues / advancements -> and to
 make suggestions of what should we focus on / take into account while developing new Grids
+
+## Dataset
+### NPS:
+From time to time we ask users about their willingness to recommend Miro (1-10 point scale)
+with an option to leave text feedback. How: in-product pop-up window, request initiated by Miro.
+
+### Feature feedback:
+For several features users are able to reveal their satisfaction (1-5 point scale) and leave text
+feedback. How: in-product feature-rating window, feedback initiated by user. Data in the table
+provided only for Grids feature.
+
+### Support tickets:
+Miro users and site visitors are able to write support requests. How: in-product / on web-site
+menu item, request initiated by user / visitor.
+
+### User’s roles:
+We collect the data regarding user’s functional roles. When we can’t identify it, we categorise it
+as ‘Not detected’.
+
+### User’s segments:
+Miro is freemium with two paid segments: self-serve (paid teams) and high-touch (big enterprise
+customers). As a user can participate in several teams, he/she can belong to more than one
+segment.
