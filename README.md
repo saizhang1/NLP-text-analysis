@@ -88,7 +88,11 @@ menu item, request initiated by user / visitor.
 We collect the data regarding user’s functional roles. When we can’t identify it, we categorise it
 as ‘Not detected’.
 
+![nps3](https://user-images.githubusercontent.com/36822899/109062267-fda67680-76e7-11eb-8fcf-a5058a6d60d3.JPG)
+
 ### User’s segments:
 Miro is freemium with two paid segments: self-serve (paid teams) and high-touch (big enterprise
 customers). As a user can participate in several teams, he/she can belong to more than one
 segment.
+
+![nps4](https://user-images.githubusercontent.com/36822899/109062293-07c87500-76e8-11eb-87b5-2b65bf27f35b.JPG)
