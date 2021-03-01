@@ -62,7 +62,7 @@ strategy and usage traction product team considers to elaborate Grids - Version 
 Whereas the product team is working on V2 of Grids, user’s feedback is considered a
 valuable source to formulate requirements for the next version of this feature. As a user's
 insights analytics manager you need to identify core user’s issues / advancements -> and to
-make suggestions of what should we focus on 
+make suggestions of what should we focus on / take into account while developing new Grids
 
 ## Dataset
 ### NPS:
